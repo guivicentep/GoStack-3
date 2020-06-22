@@ -23,10 +23,12 @@ não possuirem valor semântico (significado). Além disso, todos os componentes
 
 <h2> Instalação do projeto </h2>
 <li> Realizar o clone do projeto via terminal: </li>
+
 ``` 
 git clone https://github.com/guivicentep/GoStack-3.git
- ``` 
+``` 
 <li> Logo após, rodar o seguinte comando para instalação das dependências do projeto</li>
+
 ```
 yarn
 ``` 
@@ -36,6 +38,7 @@ yarn
 react-native run-android (ou run-ios)
 ``` 
 <li> Para o caso do comando acima não rodar o app, executar o comando abaixo logo em seguida:</li>
+
 ```
 react-native start
 ```
